@@ -74,3 +74,4 @@ ls --color=auto
 psql --username=freecodecamp
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 __vsc_prompt_cmd_original
+psql --username=freecodecamp
